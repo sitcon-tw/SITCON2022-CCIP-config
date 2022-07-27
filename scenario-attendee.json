@@ -47,7 +47,7 @@
       "zh-TW": "領取午餐"
     },
     "available_time": "2022/09/04 11:00 +0800",
-    "expire_time": "2022/09/04 13:30 +0800",
+    "expire_time": "2022/09/04 13:00 +0800",
     "countdown": 45,
     "lock_message": "你還沒點報到鈕！",
     "attr": [
