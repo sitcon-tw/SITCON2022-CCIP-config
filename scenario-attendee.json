@@ -61,30 +61,5 @@
         }
       }
     ]
-  },
-  "vipkit": {
-    "order": 3,
-    "display_text": {
-      "en-US": "Exclusive Merch",
-      "zh-TW": "獨家紀念品"
-    },
-    "available_time": "2022/09/04 10:30 +0800",
-    "expire_time": "2022/09/04 16:30 +0800",
-    "countdown": 45,
-    "not_lock_rule": {
-      "row_name": "個人贊助",
-      "value_match": "Y",
-      "not_match_disable_message": "歡迎個人贊助 (ゝ∀･)b "
-    },
-    "attr": [
-      {
-        "row_name": "price",
-        "attr_name": "price"
-      },
-      {
-        "row_name": "shirt_size",
-        "attr_name": "shirt_size"
-      }
-    ]
   }
 }
