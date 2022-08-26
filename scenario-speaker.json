@@ -35,10 +35,6 @@
       {
         "row_name": "shirt_size",
         "attr_name": "shirt_size"
-      },
-      {
-        "row_name": "paper_certification",
-        "attr_name": "paper_certification"
       }
     ],
     "lock_message": "Haven't Check-in"
