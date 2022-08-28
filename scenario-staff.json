@@ -49,13 +49,7 @@
       "row_name": "haveroom",
       "value_match": "Y",
       "not_match_disable_message": "很抱歉，你沒有申請住宿。QQ"
-    },
-    "attr": [
-      {
-        "row_name": "room",
-        "attr_name": "room"
-      }
-    ]
+    }
   },
   "allowance": {
     "order": 4,
@@ -70,13 +64,7 @@
       "row_name": "haveallowance",
       "value_match": "Y",
       "not_match_disable_message": "很抱歉，你沒有申請交通補助。QQ"
-    },
-    "attr": [
-      {
-        "row_name": "allowance",
-        "attr_name": "allowance"
-      }
-    ]
+    }
   },
   "celebration": {
     "order": 5,
