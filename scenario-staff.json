@@ -21,7 +21,7 @@
     "deliver_puzzle": 2
   },
   "kit": {
-    "order": 2,
+    "order": 1,
     "display_text": {
       "en-US": "Clothes",
       "zh-TW": "領取衣服"
@@ -37,7 +37,7 @@
     ]
   },
   "room": {
-    "order": 3,
+    "order": 2,
     "display_text": {
       "en-US": "room",
       "zh-TW": "住宿"
@@ -52,7 +52,7 @@
     }
   },
   "allowance": {
-    "order": 4,
+    "order": 3,
     "display_text": {
       "en-US": "Transport Allowance",
       "zh-TW": "交通補助"
@@ -67,7 +67,7 @@
     }
   },
   "celebration": {
-    "order": 5,
+    "order": 4,
     "display_text": {
       "en-US": "Celebration",
       "zh-TW": "慶功宴"
